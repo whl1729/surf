@@ -1,3 +1,3 @@
-# surfing
+# surf
 
-This repository take notes about what I learned when surfing the internet.
+记录每天上网了解到的信息。
