@@ -1,4 +1,4 @@
-# 网络资源之JavaScript
+# 网络资源：JavaScript
 
 ## 动态
 
@@ -13,12 +13,11 @@
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [You Don't Know Js](https://github.com/getify/You-Dont-Know-JS)
 - [JavaScript: The Right Way](http://jstherightway.org/)
+- [JavaScript Is Sexy](http://javascriptissexy.com/)
+- [React Internals](https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/)
+- [How JavaScript Works](https://blog.sessionstack.com/tagged/tutorial)
 
 ## 编程规范
 
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-
-## 博客
-
-- [JavaScript Is Sexy](http://javascriptissexy.com/)
 

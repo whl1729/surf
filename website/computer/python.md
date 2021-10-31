@@ -20,4 +20,4 @@
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
-
+- [Python internals](https://eli.thegreenplace.net/tag/python-internals)
