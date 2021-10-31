@@ -3,8 +3,10 @@
 ## Python Exercises
 
 - [What the f*ck Python!][e1]
+- [Florida Pyton Challenge][e2]
 
   [e1]: https://github.com/satwikkansal/wtfpython
+  [e2]: https://flpythonchallenge.org/
 
 ## Python Language Details
 

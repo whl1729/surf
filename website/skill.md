@@ -1,5 +1,5 @@
-# 网络资源之技能
+# 网络资源：技能提升方法论
 
-## 学习方法
+## 创新技能 (Innovation)
 
-- [伍亦勤的学习方法](https://albert-w.github.io/live-and-learn/)
+- [TRIZ](https://www.triz.org/)

@@ -1,14 +1,18 @@
 # 冲浪笔记：C++
 
-## C++ Standards
+## C++ Code Styles
 
-- [2020-09-13 C++20 Is Now Final, C++23 at Starting Blocks][s1]
-  - C++20 will include **modules, coroutines, and concepts** among its major new features.
+- [Google C++ Style Guide][c1]
+- [CppCoreGuidelines][c2]
 
-- [All C++20 core language features with examples][s2]
+  [c1]: https://google.github.io/styleguide/cppguide.html
+  [c2]: https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 
-  [s1]: https://www.infoq.com/news/2020/09/cpp-20-final/
-  [s2]: https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html
+## C++ Exercises
+
+- [C++ Quiz][e1]
+
+  [e1]: https://cppquiz.org/quiz/question/231
 
 ## C++ History
 
@@ -18,9 +22,9 @@
 
 ## C++ Language Details
 
-2. [What auto&& means][auto&&]
+- [What auto&& means][l1]
 
-  [auto&&]: https://www.fluentcpp.com/2021/04/02/what-auto-means/
+  [l1]: https://www.fluentcpp.com/2021/04/02/what-auto-means/
 
 ## C++ Practices
 
@@ -30,9 +34,15 @@
   [pr1]: http://www.cplusplus.com/articles/y807M4Gy/
   [pr2]: https://isocpp.org/wiki/faq/coding-standards
 
-## C++ Exercises
+## C++ Standards
 
-- [C++ Quiz][e1]
+- [2020-09-13 C++20 Is Now Final, C++23 at Starting Blocks][s1]
+  - C++20 will include **modules, coroutines, and concepts** among its major new features.
 
-  [e1]: https://cppquiz.org/quiz/question/231
+- [All C++20 core language features with examples][s2]
+- [modern-cpp-features][s3]
+
+  [s1]: https://www.infoq.com/news/2020/09/cpp-20-final/
+  [s2]: https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html
+  [s3]: https://github.com/AnthonyCalandra/modern-cpp-features
 

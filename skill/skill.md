@@ -1,12 +1,15 @@
 # 冲浪笔记：技能提升方法论
 
-## 人才学
+## 学习技能
 
-- [人才成长攻略][t1] (to_read)
-- [The Bus Ticket Theory of Genius][t2]
+- [Study Hacks Blog][l1]
+- [Scott H. Young's Blog][l2]
+- [伍亦勤的学习方法][l3]
 
-  [t1]: https://my.oschina.net/leejun2005/blog/354001
-  [t2]: http://paulgraham.com/genius.html
+
+  [l1]: https://www.calnewport.com/blog/
+  [l2]: https://www.scotthyoung.com/blog/
+  [l3]: https://albert-w.github.io/live-and-learn/
 
 ## 编程技能
 
@@ -24,11 +27,14 @@
 - [大牛养成指南（3）：天天写业务代码，如何成为技术大牛？][p4] 
   - Do more, Do better, Do exercise
   - Learning, Trying, Teaching
+- [我的算法学习之路][p5]
+
 
   [p1]: https://www.cnblogs.com/xinz/p/3852177.html
   [p2]: https://blog.csdn.net/yunhua_lee/article/details/52709882
   [p3]: https://blog.csdn.net/yunhua_lee/article/details/52710405
   [p4]: https://blog.csdn.net/yunhua_lee/article/details/52710894
+  [p5]: http://zh.lucida.me/blog/on-learning-algorithms/
 
 ## 科研技能
 
@@ -40,8 +46,27 @@
   [r2]: https://www.msra.cn/zh-cn/news/features/ada-camp-2021-tie-yan-liu
   [r3]: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf
 
+## 人才学
+
+- [人才成长攻略][ta1] (to_read)
+- [The Bus Ticket Theory of Genius][ta2]
+
+  [ta1]: https://my.oschina.net/leejun2005/blog/354001
+  [ta2]: http://paulgraham.com/genius.html
+
+## 时间管理技能
+
+- [邹欣：驽马的自白][ti1]
+
+  [ti1]: https://www.douban.com/note/206395832/
+
 ## 思考技能
 
-- [How to think for yourself][t1]
+- [How to think for yourself][th1]
+- [实用主义人生——我的思考和学习手册（伍亦勤）][th2]
+- [学而时嘻之](th3)
 
-  [t1]: http://paulgraham.com/think.html
+  [th1]: http://paulgraham.com/think.html
+  [th2]: https://zhuanlan.zhihu.com/p/30005592
+  [th3]: https://www.geekonomics10000.com/
+

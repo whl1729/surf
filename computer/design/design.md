@@ -4,9 +4,11 @@
 
 - [Design Patterns VS Design Principles: Iterator, Mediator and Memento][pa1] (to_read)
 - [Design Patterns VS Design Principles: Observer, State and Strategy][pa2] (to_read)
+- [史上最全设计模式导学目录（完整版）][pa3]
 
   [pa1]: https://www.fluentcpp.com/2021/09/12/design-patterns-vs-design-principles-iterator-mediator-and-memento/
   [pa2]: https://www.fluentcpp.com/2021/10/19/design-patterns-vs-design-principles-observer-state-and-strategy/
+  [pa3]: https://blog.csdn.net/LoveLion/article/details/17517213
 
 ## Design Principles
 
