@@ -10,20 +10,6 @@
   [dl2]: https://www.bilibili.com/video/BV1zi4y1L7NC?p=29
   [dl3]: https://www.jiqizhixin.com/articles/2021-03-28-3
 
-## Resources
-
-- [斯坦福大学：人工智能本科 4 年课程清单][r1] (to_read)
-- [Learn AI From Scratch][r2] (to_read)
-
-  [r1]: https://zhuanlan.zhihu.com/p/342522102
-  [r2]: https://learnaifromscratch.github.io/
-
-## Speech Recognization and Generation
-
-- [TTS: Text-to-Speech for all.][s1]: A library for advanced Text-to-Speech generation.
-
-  [s1]: https://github.com/mozilla/TTS
-
 ## Industry
 
 - [华为昇腾，AI推理性能超越对手一倍：软件挖掘处理器全部潜力][i1]
@@ -41,9 +27,17 @@
   - 先拿自己验证
   - 华为AI最大的挑战在于生态到底能够做到多大
 
-- [2021年人工智能全球最具影响力学者榜单AI 2000发布][i3].
+- [人工智能指数2021年度报告][i3] (to_read)
 
-- [人工智能领域有哪些重要的学术会议和顶级实验室？ - 「已注销」的回答 - 知乎][i4]
+  [i1]: https://www.jiqizhixin.com/articles/2020-08-14-5
+  [i2]: https://www.jiqizhixin.com/articles/2018-10-31-34
+  [i3]: https://aiindex.stanford.edu/wp-content/uploads/2021/04/2021-AI-Index-Report_Chinese-Edition.pdf
+
+## Research
+
+- [2021年人工智能全球最具影响力学者榜单AI 2000发布][re1].
+
+- [人工智能领域有哪些重要的学术会议和顶级实验室？ - 「已注销」的回答 - 知乎][re2]
   - IJCAI: International Joint Conference on Artificial Intelligence, 国际人工智能联合会议。AI最重要的综合性会议（从2016年起每年召开一次）。
   - AAAI: The Association for the Advancement of Artificial Intelligence, 国际人工智能协会主办的会议。前身为美国人工智能协会。
   - NIPS: Neural Information Processing Systems, 神经信息处理系统大会。计算神经科学最好的会议之一。
@@ -57,10 +51,23 @@
   - ICLR: International Conference on Learning Representations, 国际学习表征会议
   - MLSys: The Conference on **Machine Learning and Systems** targets research at the intersection of machine learning and systems.
 
-- [人工智能指数2021年度报告][i5] (to_read)
+- [周志华：探索从纯学习到学习+推理的AI][re3]
 
-  [i1]: https://www.jiqizhixin.com/articles/2020-08-14-5
-  [i2]: https://www.jiqizhixin.com/articles/2018-10-31-34
-  [i3]: https://www.jiqizhixin.com/articles/2021-04-08-5
-  [i4]: https://www.zhihu.com/question/31617024/answer/155239477
-  [i5]: https://aiindex.stanford.edu/wp-content/uploads/2021/04/2021-AI-Index-Report_Chinese-Edition.pdf
+  [re1]: https://www.jiqizhixin.com/articles/2021-04-08-5
+  [re2]: https://www.zhihu.com/question/31617024/answer/155239477
+  [re3]: https://www.jiqizhixin.com/articles/2021-11-04-2
+
+## Resources
+
+- [斯坦福大学：人工智能本科 4 年课程清单][rs1] (to_read)
+- [Learn AI From Scratch][rs2] (to_read)
+
+  [rs1]: https://zhuanlan.zhihu.com/p/342522102
+  [rs2]: https://learnaifromscratch.github.io/
+
+## Speech Recognization and Generation
+
+- [TTS: Text-to-Speech for all.][s1]: A library for advanced Text-to-Speech generation.
+
+  [s1]: https://github.com/mozilla/TTS
+
