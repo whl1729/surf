@@ -7,3 +7,7 @@
 - [This Week in Rust](https://this-week-in-rust.org/)
 - [Rust语言中文社区](https://rustcc.cn/)
 - [2021年Rust语言中文精选](https://www.yuque.com/chaosbot/rust_magazine_2021)
+
+## 博客
+
+- [fasterthanli](https://fasterthanli.me/)
