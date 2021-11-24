@@ -18,11 +18,14 @@
   - Universal nil
   - Concise Error Handling
 
+- [Go Does Not Need a Java Style GC][d6] 讨论Go的内存管理机制
+
   [d1]: https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
   [d2]: https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d
   [d3]: https://romanyx90.medium.com/go-errors-with-additional-details-66873577f3a9
   [d4]: https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole
   [d5]: https://betterprogramming.pub/three-things-go-needs-right-now-more-than-generics-a6225d62f76b
+  [d6]: https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60
 
 ## Golang Practices
 
