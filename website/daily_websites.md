@@ -50,6 +50,7 @@
 - [Linux Today](https://www.linuxtoday.com/)
 - [Linux Journal](https://www.linuxjournal.com/)
 - [Ubuntu Blog](https://ubuntu.com/blog)
+- [Ubuntu Weekly Newsletter](https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/Archive)
 
 ## 技术动态
 

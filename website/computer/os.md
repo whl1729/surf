@@ -14,6 +14,7 @@
 
 ## Ubuntu
 
+- [Ubuntu Weekly Newsletter](https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/Archive)
 - [Mark Shuttleworth's Blog](https://www.markshuttleworth.com/)
 
 > 备注：Mark Shuttleworth 是 Canonical 公司的创立者和CEO，
