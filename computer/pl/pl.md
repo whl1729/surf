@@ -1,5 +1,11 @@
 # 冲浪笔记：编程语言
 
+## Compiler
+
+- [Technique: Compile Time Code Generation and Optimization][c1]: C++ 实现 brainfuck 编译器
+
+  [c1]: https://www.foonathan.net/2022/01/compile-time-codegen/
+
 ## Programming Language Exercises
 
 - [exercism][e1]
