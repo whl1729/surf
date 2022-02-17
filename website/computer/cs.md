@@ -22,6 +22,7 @@
 - [geniusvczh](https://www.cnblogs.com/geniusvczh/)
 - [老赵点滴-追求编程之美](http://blog.zhaojie.me/)
 - [Milo的ex-Hippocampus](http://miloyip.com/)
+- [四火的唠叨](https://www.raychase.net/)
 
 ### 非个人博客
 
