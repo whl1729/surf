@@ -37,9 +37,11 @@
 - [Forcefully Close TCP Connections in Golang][pr3] (to_read)
 - [Finding and fixing memory leaks in Go][pr4] (to_read)
 - [Let’s Go with Redis and Lua Scripts][pr5] (to_read)
+- [Tutorial: Getting started with fuzzing][pr6] fuzzing 工具可以为测试用例生成随机数据。
 
   [pr1]: https://henvic.dev/posts/go/
   [pr2]: https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust
   [pr3]: https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
   [pr4]: https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h
   [pr5]: https://xitonix.io/go-lua-and-redis/
+  [pr6]: https://go.dev/doc/tutorial/fuzz
