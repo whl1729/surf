@@ -16,6 +16,22 @@
   [l1]: https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/
   [l2]: https://sadh.life/post/builtins/
 
+## Python practices
+
+- [unittest.mock][pr1] 用于编写测试用例时 mock 一些对象。
+- [pytest-mock-generator][pr2]
+- [Python Project Setup – Virtual Environments and Package Management][pr3]
+
+  [pr1]: https://docs.python.org/3.7/library/unittest.mock.html
+  [pr2]: https://pypi.org/project/pytest-mock-generator/
+  [pr3]: https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry
+
+## Python Projects
+
+- [Practical Python Projects][pj1] 提供了一些用 Python 实现的实用或有趣的项目。
+
+  [pj1]: https://practicalpython.yasoob.me/toc.html
+
 ## Python Resources
 
 - [Awesome Python][r1]
