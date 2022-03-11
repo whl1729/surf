@@ -15,18 +15,28 @@
 ## JavaScript Practices
 
 - [Five Ways to Prevent Code Injection in JavaScript][pr1]. (to_read)
+- [goldbergyoni/nodebestpractices][pr2]
+- [JavaScript Project Guidelines][pr3]
+- [clean-code-javascript][pr4]
 
   [pr1]: https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/
+  [pr2]: https://github.com/goldbergyoni/nodebestpractices
+  [pr3]: https://github.com/elsewhencode/project-guidelines
+  [pr4]: https://github.com/ryanmcdermott/clean-code-javascript
 
 ## JavaScript Resources
 
 - [JavaScript for impatient programmers][re1]: a book about js. (to_read)
 - [How to Learn JavaScript Properly][re2]
 - [Awesome JavaScript][re3]
+- [javascript-questions][re4]
+- [33-js-concepts][re5]
 
   [re1]: https://exploringjs.com/impatient-js/toc.html
   [re2]: http://javascriptissexy.com/how-to-learn-javascript-properly/
   [re3]: https://github.com/sorrycc/awesome-javascript
+  [re4]: https://github.com/lydiahallie/javascript-questions
+  [re5]: https://github.com/leonardomso/33-js-concepts
 
 ## JavaScript Runtime
 
