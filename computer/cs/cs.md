@@ -6,6 +6,14 @@
 
   [f1]: https://softwarefoundations.cis.upenn.edu/
 
+## Games
+
+- [Best Hacking/Programming Games][g1]
+- [Best Hacking/Programming Games Part 2][g2]
+
+  [g1]: https://apnacodingadda.blogspot.com/2022/02/best-hackingprogramming-games.html
+  [g2]: https://apnacodingadda.blogspot.com/2022/02/best-hackingprogramming-games-part-2.html
+
 ## Resources
 
 - [What videos should everybody watch?][r1]
