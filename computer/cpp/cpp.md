@@ -26,6 +26,12 @@
 
   [l1]: https://www.fluentcpp.com/2021/04/02/what-auto-means/
 
+## C++ Library
+
+- [Cheat Sheets & Infographics][li1]：使用图表介绍 C++ 的各种数据结构与算法
+
+  [li1]: https://hackingcpp.com/cpp/cheat_sheets.html
+
 ## C++ Practices
 
 - [How to avoid bugs using modern C++][pr1]. (to_read)
