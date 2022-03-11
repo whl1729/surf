@@ -67,12 +67,14 @@
 - [Where to go to learn Rust in 2021][pr3]
 - [Rust Language Cheat Sheet][pr4]: Rust 函数快查表网站
 - [Continuous Integration with Github Actions and Rust][pr5]
+- [Effective Rust][pr6]
 
   [pr1]: https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md
   [pr2]: https://github.com/anshulrgoyal/rust-web-developer-roadmap
   [pr3]: https://loige.co/where-to-go-to-learn-rust-in-2021/
   [pr4]: https://cheats.rs/
   [pr5]: https://www.homeops.dev/continuous-integration-with-github-actions-and-rust/
+  [pr6]: https://www.lurklurk.org/effective-rust/
 
 ## Rust Projects
 
