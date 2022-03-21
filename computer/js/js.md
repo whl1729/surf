@@ -16,6 +16,12 @@
   [l2]: https://auth0.com/blog/javascript-module-systems-showdown/
   [l3]: https://github.com/lukehoban/es6features
 
+## JavaScript Libraries
+
+- [Lodash][li1]
+
+  [li1]: https://lodash.com/
+
 ## JavaScript Modules
 
 - [Detailed Explanation of a Simple Module Bundler][m1]
