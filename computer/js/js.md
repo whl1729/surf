@@ -60,6 +60,12 @@
 
   [rt1]: https://deno.land/
 
+## JavaScript Tools
+
+- [npx][t1]
+
+  [t1]: https://www.npmjs.com/package/npx
+
 ## JavaScript for Web
 
 - [The State Of Web Workers In 2021][w1] 讨论js的单线程、并发等问题 (to_read)
