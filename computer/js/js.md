@@ -10,9 +10,11 @@
 
 - [`export default thing` is different to `export { thing as default  }`][l1] (to_read)
 - [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015][l2]
+- [ECMAScript 6 Features][l3]
 
   [l1]: https://jakearchibald.com/2021/export-default-thing-vs-thing-as-default/
   [l2]: https://auth0.com/blog/javascript-module-systems-showdown/
+  [l3]: https://github.com/lukehoban/es6features
 
 ## JavaScript Modules
 
