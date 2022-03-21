@@ -14,6 +14,12 @@
   [l1]: https://jakearchibald.com/2021/export-default-thing-vs-thing-as-default/
   [l2]: https://auth0.com/blog/javascript-module-systems-showdown/
 
+## JavaScript Modules
+
+- [Detailed Explanation of a Simple Module Bundler][m1]
+
+  [m1]: https://github.com/ronami/minipack
+
 ## JavaScript Practices
 
 - [Five Ways to Prevent Code Injection in JavaScript][pr1]. (to_read)
