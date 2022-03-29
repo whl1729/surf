@@ -34,11 +34,13 @@
 - [goldbergyoni/nodebestpractices][pr2]
 - [JavaScript Project Guidelines][pr3]
 - [clean-code-javascript][pr4]
+- [How to manage sessions in Node.js using Passport, Redis, and MySQL][pr5]
 
   [pr1]: https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/
   [pr2]: https://github.com/goldbergyoni/nodebestpractices
   [pr3]: https://github.com/elsewhencode/project-guidelines
   [pr4]: https://github.com/ryanmcdermott/clean-code-javascript
+  [pr5]: https://arctype.com/blog/node-session/
 
 ## JavaScript Resources
 
@@ -63,8 +65,12 @@
 ## JavaScript Tools
 
 - [npx][t1]
+- [Tao of Node - Design, Architecture & Best Practices][t2]
+- [10 best practices to containerize Node.js web applications with Docker][t3]
 
   [t1]: https://www.npmjs.com/package/npx
+  [t2]: https://alexkondov.com/tao-of-node/
+  [t3]: https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker
 
 ## JavaScript for Web
 
