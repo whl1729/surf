@@ -53,6 +53,7 @@
 
 ## 技术动态
 
+- [Github Trending](https://github.com/trending)
 - [Hacker News](https://news.ycombinator.com/news)
 - [阿里云藏经阁](https://developer.aliyun.com/ebook)
 - [腾讯云社区专栏](https://cloud.tencent.com/developer/column)
