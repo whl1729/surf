@@ -1,6 +1,14 @@
 # 冲浪笔记：技能提升方法论
 
-## 学习技能
+## English 英语技能
+
+- [中国人英文论文写作指南][e1]
+- [The Most Common Habits from more than 200 English Papers written by Graduate Chinese Engineering Students][e2]
+
+  [e1]: https://www.qbitai.com/2022/05/34533.html
+  [e2]: https://www.chrisyttang.org/assets/misc/The%20Most%20Common%20Habits%20from%20more%20than%20200%20English%20Papers%20written.pdf
+
+## Learning 学习技能
 
 - [Study Hacks Blog][l1]
 - [Scott H. Young's Blog][l2]
@@ -11,7 +19,7 @@
   [l2]: https://www.scotthyoung.com/blog/
   [l3]: https://albert-w.github.io/live-and-learn/
 
-## 编程技能
+## Programming 编程技能
 
 - [现代软件工程 课件 软件工程师能力自我评价表][p1]
 - [大牛养成指南（1）：吃的草够多，你也能成为大牛][p2] 
@@ -36,7 +44,7 @@
   [p4]: https://blog.csdn.net/yunhua_lee/article/details/52710894
   [p5]: http://zh.lucida.me/blog/on-learning-algorithms/
 
-## 科研技能
+## Research 科研技能
 
 - [讲堂 | 霍强：创新研究到底怎么做？][r1]
 - [讲堂 | 刘铁岩：科研到底怎么做？什么是高质量研究？][r2]
@@ -46,7 +54,7 @@
   [r2]: https://www.msra.cn/zh-cn/news/features/ada-camp-2021-tie-yan-liu
   [r3]: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf
 
-## 人才学
+## Talent 人才学
 
 - [人才成长攻略][ta1] (to_read)
 - [The Bus Ticket Theory of Genius][ta2]
@@ -54,13 +62,13 @@
   [ta1]: https://my.oschina.net/leejun2005/blog/354001
   [ta2]: http://paulgraham.com/genius.html
 
-## 时间管理技能
+## Time Management 时间管理技能
 
 - [邹欣：驽马的自白][ti1]
 
   [ti1]: https://www.douban.com/note/206395832/
 
-## 思考技能
+## Thinking 思考技能
 
 - [How to think for yourself][th1]
 - [实用主义人生——我的思考和学习手册（伍亦勤）][th2]
