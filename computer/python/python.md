@@ -8,13 +8,17 @@
   [e1]: https://github.com/satwikkansal/wtfpython
   [e2]: https://flpythonchallenge.org/
 
-## Python Language Details
+## Python Internal
 
-- [how the Python import system works][l1]
-- [Understanding all of Python, through its builtins][l2]
+- [how the Python import system works][i1]
+- [Understanding all of Python, through its builtins][i2]
+- [When Python can’t thread: a deep-dive into the GIL’s impact][i3]
+- [Modern Python performance considerations][i4]
 
-  [l1]: https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/
-  [l2]: https://sadh.life/post/builtins/
+  [i1]: https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/
+  [i2]: https://sadh.life/post/builtins/
+  [i3]: https://pythonspeed.com/articles/python-gil/
+  [i4]: https://lwn.net/Articles/893686/
 
 ## Python practices
 
@@ -37,3 +41,9 @@
 - [Awesome Python][r1]
 
   [r1]: https://github.com/vinta/awesome-python
+
+## Python Tools
+
+- [Code Quality Tools in Python][t1]
+
+  [t1]: https://dev.to/dollardhingra/code-quality-tools-in-python-4k2a
