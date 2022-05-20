@@ -18,6 +18,7 @@
 - [后端开发实践——开发者的第0个迭代][pr4]: 演示了一下包括DDD在内的一些软件设计方法。 (to_read)
 - [解构领域驱动设计][pr5] (to_read)
 - [Minor, Major and Overarching Design Principles][pr6] (to_read)
+- [Architectural Styles and the Design of Network-based Software Architectures][pr7]: 介绍 REST 规范
 
   [pr1]: http://www.cs.yale.edu/homes/perlis-alan/quotes.html
   [pr2]: https://simonwillison.net/2021/Jul/1/pagnis/
@@ -25,3 +26,4 @@
   [pr4]: https://insights.thoughtworks.cn/backend-development-iteration0/
   [pr5]: https://www.cnblogs.com/baihmpgy/p/10259264.html
   [pr6]: https://www.fluentcpp.com/2021/07/01/minor-major-and-overarching-design-principles/
+  [pr7]: https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
