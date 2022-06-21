@@ -95,6 +95,8 @@
 - [中华人民共和国工业和信息化部](https://www.miit.gov.cn/)
 - [中国工程院](https://www.cae.cn/)
 - [中国科学院](http://www.cas.cn/)
+- [中国探月与深空探测网](http://www.clep.org.cn/)
+- [中国空间技术研究院](https://www.cast.cn/)
 - [国家自然科学基金委员会](http://www.nsfc.gov.cn/)
 - [中华人民共和国国防部](http://www.mod.gov.cn/)
 - [中华人民共和国外交部](https://www.fmprc.gov.cn/web/)
@@ -147,6 +149,8 @@
 - [中国科学网](http://www.sciencenet.cn/)
 - [中国科技网](http://www.stdaily.com/)
 - [科创论坛](https://www.kechuang.org/)
+- [国家航天局](http://www.cnsa.gov.cn/index.html)
+- [中国载人航天](http://www.cmse.gov.cn/)
 
 ## 新闻
 
@@ -155,4 +159,3 @@
 - [澎湃新闻](https://www.thepaper.cn/)
 - [参考消息](http://m.cankaoxiaoxi.com/)
 - [CNN](https://us.cnn.com/)
-
