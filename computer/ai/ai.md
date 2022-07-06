@@ -53,9 +53,14 @@
 
 - [周志华：探索从纯学习到学习+推理的AI][re3]
 
+- [LeCun用62页论文公布未来十年研究计划：AI自主智能][re4]
+  - [A Path Towards Autonomous Machine Intelligence][re5]
+
   [re1]: https://www.jiqizhixin.com/articles/2021-04-08-5
   [re2]: https://www.zhihu.com/question/31617024/answer/155239477
   [re3]: https://www.jiqizhixin.com/articles/2021-11-04-2
+  [re4]: https://www.qbitai.com/2022/06/35570.html
+  [re5]: https://openreview.net/pdf?id=BZ5a1r-kVsf
 
 ## Resources
 
