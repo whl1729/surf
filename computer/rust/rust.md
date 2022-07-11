@@ -8,6 +8,16 @@
   [e1]: https://github.com/dtolnay/rust-quiz
   [e2]: https://rustcc.cn/article?id=0b0afa3e-db03-428e-9fc5-b06347997d41
 
+## Rust for Frontend Development
+
+- [Rust 是 JavaScript 基础设施的未来][f1]
+- [前端研发的新基础设施 - Rust][f2]
+- [仅仅过去 4 年，微软最终放弃了 Electron][f3]
+
+  [f1]: https://mp.weixin.qq.com/s?__biz=MzkxNDIzNTg4MA==&mid=2247485792&idx=1&sn=682a4dee7ce4d3b47a81baf9ebd7a98a
+  [f2]: https://mp.weixin.qq.com/s/JOnz0IVWRm_bYWReACyWAg
+  [f3]: https://mp.weixin.qq.com/s/EeOd-Ln9RUNmeWLlMkJmIg
+
 ## Rust Language Design
 
 - [Rust's Type System is Turing-Complete][d1] (to_read)
