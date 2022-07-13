@@ -56,11 +56,16 @@
 - [LeCun用62页论文公布未来十年研究计划：AI自主智能][re4]
   - [A Path Towards Autonomous Machine Intelligence][re5]
 
+- [马毅沈向洋曹颖最新AI综述火了！耗时3月打造][re6]
+  - [On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence][re7]
+
   [re1]: https://www.jiqizhixin.com/articles/2021-04-08-5
   [re2]: https://www.zhihu.com/question/31617024/answer/155239477
   [re3]: https://www.jiqizhixin.com/articles/2021-11-04-2
   [re4]: https://www.qbitai.com/2022/06/35570.html
   [re5]: https://openreview.net/pdf?id=BZ5a1r-kVsf
+  [re6]: https://www.qbitai.com/2022/07/36036.html
+  [re7]: https://arxiv.org/pdf/2207.04630.pdf
 
 ## Resources
 
