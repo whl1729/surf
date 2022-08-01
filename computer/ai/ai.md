@@ -5,10 +5,14 @@
 - [TED: How computers learn to recognize objects instantly | Joseph Redmon][dl1]
 - [吴恩达深度学习专业课：卷积神经网络][dl2]
 - [GNN讲解][dl3]
+- [终于，Yann LeCun发文驳斥Gary Marcus：别把一时的困难当撞墙][dl4]
+- [What AI Can Tell Us About Intelligence][dl5]
 
   [dl1]: https://www.youtube.com/watch?v=Cgxsv1riJhI
   [dl2]: https://www.bilibili.com/video/BV1zi4y1L7NC?p=29
   [dl3]: https://www.jiqizhixin.com/articles/2021-03-28-3
+  [dl4]: https://www.jiqizhixin.com/articles/2022-06-17-6
+  [dl5]: https://www.noemamag.com/what-ai-can-tell-us-about-intelligence/
 
 ## Industry
 
