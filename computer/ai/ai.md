@@ -75,9 +75,11 @@
 
 - [斯坦福大学：人工智能本科 4 年课程清单][rs1] (to_read)
 - [Learn AI From Scratch][rs2] (to_read)
+- [非科班AI小哥火了：他没有ML学位，却拿到DeepMind的offer][rs3]
 
   [rs1]: https://zhuanlan.zhihu.com/p/342522102
   [rs2]: https://learnaifromscratch.github.io/
+  [rs3]: https://www.qbitai.com/2022/08/36685.html
 
 ## Speech Recognization and Generation
 

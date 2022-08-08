@@ -42,6 +42,12 @@
   [pr4]: https://github.com/ryanmcdermott/clean-code-javascript
   [pr5]: https://arctype.com/blog/node-session/
 
+## JavaScript Projects
+
+- [js1024 Annual JavaScript Golfing Competition][pj1]
+
+  [pj1]: https://js1024.fun/
+
 ## JavaScript Resources
 
 - [JavaScript for impatient programmers][re1]: a book about js. (to_read)
