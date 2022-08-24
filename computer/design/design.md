@@ -27,3 +27,9 @@
   [pr5]: https://www.cnblogs.com/baihmpgy/p/10259264.html
   [pr6]: https://www.fluentcpp.com/2021/07/01/minor-major-and-overarching-design-principles/
   [pr7]: https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+
+## Error Handling
+
+- [Outcomes, Mistakes, and the Nuance of Error Handling][e1]
+
+  [e1]: https://izzys.casa/2022/01/outcomes-mistakes-and-nuance/

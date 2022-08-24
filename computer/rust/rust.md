@@ -101,6 +101,7 @@
 - [Writing a 3D Shooter using rg3d - #3 - Bots, AI][pj10]
 - [rkyv][pj11]: `rkyv`宣称堪比`serde_json`序列化更快的crates。
 - [华为 | 基于Rust的下一代虚拟化平台-StratoVirt][pj12]
+- [Superconsole: A Text-based User Interface (TUI) library written in RUST][pj13]
 
   [pj1]: https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/
   [pj2]: https://github.com/QuantumBadger/Speedy2D
@@ -114,6 +115,7 @@
   [pj10]: https://rg3d.rs/tutorials/2021/03/11/tutorial3.html
   [pj11]: https://github.com/rkyv/rkyv
   [pj12]: https://www.yuque.com/chaosbot/rust_magazine_2021/nc4nvv
+  [pj13]: https://developers.facebook.com/blog/post/2022/07/21/superconsole/
 
 ## Rust Resources
 
