@@ -22,6 +22,8 @@
 
 - [Go: A Documentary][d7] Go 历史文献
 
+- [100 Go Mistakes and How to Avoid Them][d8]
+
   [d1]: https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
   [d2]: https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d
   [d3]: https://romanyx90.medium.com/go-errors-with-additional-details-66873577f3a9
@@ -29,6 +31,7 @@
   [d5]: https://betterprogramming.pub/three-things-go-needs-right-now-more-than-generics-a6225d62f76b
   [d6]: https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60
   [d7]: https://golang.design/history/
+  [d8]: https://github.com/teivah/100-go-mistakes
 
 ## Golang Practices
 
