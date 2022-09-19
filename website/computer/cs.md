@@ -4,6 +4,7 @@
 
 ### 个人博客
 
+- [research!rsc](https://research.swtch.com/): Thoughts and links about programming, by Russ Cox
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Paul Graham](http://www.paulgraham.com/articles.html)
 - [Peter Norvig](http://norvig.com/)
