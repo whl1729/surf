@@ -54,5 +54,7 @@
 ## Go Resource
 
 - [Go 101][r1]: an up-to-date knowledge base for Go programming self learning
+- [Airs – Ian Lance Taylor][r2]: A gopher's blog
 
   [r1]: https://go101.org/
+  [r2]: https://www.airs.com/blog/
