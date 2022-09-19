@@ -24,6 +24,16 @@
 
 - [100 Go Mistakes and How to Avoid Them][d8]
 
+- [go ExperienceReports][d9] 类似「用户体验反馈」，提出 Go 使用过程中的一些问题。
+
+- [Proposing Changes to Go][d10] 类似「特性提议」，希望 Go 增加/修改某些特性。
+
+- [How Go was made][d11]
+
+- [The Evolution of Go][d12]
+
+- [Go, Open Source, Community][d13]
+
   [d1]: https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
   [d2]: https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d
   [d3]: https://romanyx90.medium.com/go-errors-with-additional-details-66873577f3a9
@@ -32,6 +42,11 @@
   [d6]: https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60
   [d7]: https://golang.design/history/
   [d8]: https://github.com/teivah/100-go-mistakes
+  [d9]: https://github.com/golang/go/wiki/ExperienceReports
+  [d10]: https://github.com/golang/proposal
+  [d11]: https://go.dev/talks/2015/how-go-was-made.slide#1
+  [d12]: https://go.dev/talks/2015/gophercon-goevolution.slide#1
+  [d13]: https://go.dev/blog/open-source
 
 ## Golang Practices
 
