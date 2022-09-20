@@ -34,6 +34,8 @@
 
 - [Go, Open Source, Community][d13]
 
+- [Go at Google: Language Design in the Service of Software Engineering][d14] Go 发明者谈 Go 的设计
+
   [d1]: https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
   [d2]: https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d
   [d3]: https://romanyx90.medium.com/go-errors-with-additional-details-66873577f3a9
@@ -47,6 +49,7 @@
   [d11]: https://go.dev/talks/2015/how-go-was-made.slide#1
   [d12]: https://go.dev/talks/2015/gophercon-goevolution.slide#1
   [d13]: https://go.dev/blog/open-source
+  [d14]: https://go.dev/talks/2012/splash.article
 
 ## Golang Practices
 
