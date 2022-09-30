@@ -61,6 +61,8 @@
 - [左耳听风](https://time.geekbang.org/column/intro/100002201?tab=intro)
 - [程序员进阶攻略](https://time.geekbang.org/column/intro/100012101?tab=intro)
 - [大厂晋升指南](https://time.geekbang.org/column/intro/100064501?tab=intro)
+- [超级访谈：对话汤峥嵘](https://time.geekbang.org/column/intro/100109601?tab=catalog)
+- [10x 程序员工作法](https://time.geekbang.org/column/intro/100022301?tab=catalog)
 
 - [玩转 Git 三剑客](https://time.geekbang.org/course/intro/100021601?tab=intro)
 - [正则表达式入门课](https://time.geekbang.org/column/intro/100053301?tab=intro)
@@ -152,6 +154,8 @@
 - [左耳听风](https://time.geekbang.org/column/intro/100002201?tab=intro)
 - [程序员进阶攻略](https://time.geekbang.org/column/intro/100012101?tab=intro)
 - [大厂晋升指南](https://time.geekbang.org/column/intro/100064501?tab=intro)
+- [超级访谈：对话汤峥嵘](https://time.geekbang.org/column/intro/100109601?tab=catalog)
+- [10x 程序员工作法](https://time.geekbang.org/column/intro/100022301?tab=catalog)
 
 ## 工具使用
 
