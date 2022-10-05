@@ -37,6 +37,8 @@
 - [Linux 性能优化实战](https://time.geekbang.org/column/intro/100020901?tab=intro)
 - [消息队列高手课](https://time.geekbang.org/column/intro/100032301?tab=intro)
 - [高并发系统设计 40 问](https://time.geekbang.org/column/intro/100035801?tab=intro)
+- [系统性能调优必知必会](https://time.geekbang.org/column/intro/100051201?tab=catalog)
+- [性能工程高手课](https://time.geekbang.org/column/intro/100041101?tab=catalog)
 
 - [深入浅出计算机组成原理](https://time.geekbang.org/column/intro/100026001?tab=intro)
 - [说透芯片](https://time.geekbang.org/column/intro/100079201?tab=intro)
@@ -118,6 +120,8 @@
 - [Linux 性能优化实战](https://time.geekbang.org/column/intro/100020901?tab=intro)
 - [消息队列高手课](https://time.geekbang.org/column/intro/100032301?tab=intro)
 - [高并发系统设计 40 问](https://time.geekbang.org/column/intro/100035801?tab=intro)
+- [系统性能调优必知必会](https://time.geekbang.org/column/intro/100051201?tab=catalog)
+- [性能工程高手课](https://time.geekbang.org/column/intro/100041101?tab=catalog)
 
 ## 计算机组成原理
 
