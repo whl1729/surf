@@ -19,3 +19,9 @@
 - [An Interview With Linus Torvalds: Linux and Git][i1] (to_read)
 
   [i1]: https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git
+
+## Linux Tools
+
+- [the-art-of-command-line][t1]
+
+  [t1]: https://github.com/jlevy/the-art-of-command-line
