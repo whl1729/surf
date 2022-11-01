@@ -59,8 +59,8 @@
 - [Finding and fixing memory leaks in Go][pr4] (to_read)
 - [Let’s Go with Redis and Lua Scripts][pr5] (to_read)
 - [Tutorial: Getting started with fuzzing][pr6] fuzzing 工具可以为测试用例生成随机数据。
-
-###
+- [100-go-mistakes][pr7]
+- [Maps and Memory Leaks in Go][pr8]
 
   [pr1]: https://henvic.dev/posts/go/
   [pr2]: https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust
@@ -68,6 +68,8 @@
   [pr4]: https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h
   [pr5]: https://xitonix.io/go-lua-and-redis/
   [pr6]: https://go.dev/doc/tutorial/fuzz
+  [pr7]: https://github.com/teivah/100-go-mistakes
+  [pr8]: https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69
 
 ## Go Resource
 
