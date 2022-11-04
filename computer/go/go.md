@@ -22,6 +22,8 @@
 
 - [Go to use pdqsort instead of quicksort][d7] Go 采用新的排序算法 [pdqsort][d8]
 
+- [The Go Scheduler][d9]
+
   [d1]: https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
   [d2]: https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d
   [d3]: https://romanyx90.medium.com/go-errors-with-additional-details-66873577f3a9
@@ -30,6 +32,7 @@
   [d6]: https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60
   [d7]: https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257
   [d8]: https://arxiv.org/pdf/2106.05123.pdf
+  [d9]: https://morsmachine.dk/go-scheduler
 
 ## Golang Practices
 
