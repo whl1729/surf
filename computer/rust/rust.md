@@ -123,11 +123,13 @@
 - [用RUST进行系统编程的自学资源][r2]
 - [13年资深开发者分享一年学习Rust经历：从必备书目到代码练习一网打尽][r3]
   - [How I went about learning Rust][r4]
+- [Blessed: An unofficial guide to the Rust ecosystem][r5]
 
   [r1]: https://github.com/ctjhoa/rust-learning
   [r2]: https://github.com/rcore-os/rCore/wiki/study-resource-of-system-programming-in-RUST
   [r3]: https://www.qbitai.com/2022/07/36355.html
   [r4]: https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/
+  [r5]: https://blessed.rs/crates
 
 ## Rust Standards
 
