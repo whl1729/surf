@@ -35,12 +35,14 @@
 - [JavaScript Project Guidelines][pr3]
 - [clean-code-javascript][pr4]
 - [How to manage sessions in Node.js using Passport, Redis, and MySQL][pr5]
+- [goldbergyoni/javascript-testing-best-practices][pr6]
 
   [pr1]: https://snyk.io/blog/5-ways-to-prevent-code-injection-in-javascript-and-node-js/
   [pr2]: https://github.com/goldbergyoni/nodebestpractices
   [pr3]: https://github.com/elsewhencode/project-guidelines
   [pr4]: https://github.com/ryanmcdermott/clean-code-javascript
   [pr5]: https://arctype.com/blog/node-session/
+  [pr6]: https://github.com/goldbergyoni/javascript-testing-best-practices#readme
 
 ## JavaScript Projects
 
