@@ -21,3 +21,4 @@
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
 - [Python internals](https://eli.thegreenplace.net/tag/python-internals)
+- [Python Developer’s Guide](https://devguide.python.org/): 介绍了CPython的实现。
