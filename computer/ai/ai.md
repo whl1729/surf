@@ -1,5 +1,11 @@
 # 冲浪笔记：人工智能
 
+## Automatic Theorem Proving
+
+- [Human-Oriented Automatic Theorem Proving][atp1]
+
+  [atp1]: https://wtgowers.github.io/human-style-atp/
+
 ## Deeping Learning
 
 - [TED: How computers learn to recognize objects instantly | Joseph Redmon][dl1]
