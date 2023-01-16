@@ -1,8 +1,8 @@
-# 冲浪笔记：Golang
+# 冲浪笔记：Go
 
-## Golang language design
+## Go language design
 
--  [Notes on structured concurrency, or: Go statement considered harmful][d1] (to_read)
+- [Notes on structured concurrency, or: Go statement considered harmful][d1] (to_read)
   - The popular concurrency primitives – go statements, thread spawning functions, callbacks, futures, promises, ...
     they're all variants on goto.
   - These primitives are dangerous, because they undermine our ability to **reason about control flow** 
@@ -51,7 +51,13 @@
   [d13]: https://go.dev/blog/open-source
   [d14]: https://go.dev/talks/2012/splash.article
 
-## Golang Practices
+## Go Libraries
+
+- [The Go libraries that never failed us: 22 libraries you need to know][l1]
+
+  [l1]: https://threedots.tech/post/list-of-recommended-libraries/
+
+## Go Practices
 
 - [The ecosystem of the Go programming language][pr1]: 介绍Go语言的生态，包括各种工具、资源。 (to_read)
 - [Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust][pr2] (to_read)
@@ -78,3 +84,9 @@
 
   [r1]: https://go101.org/
   [r2]: https://www.airs.com/blog/
+
+## Go Test
+
+- [How to use mocks in your table-driven tests in Go][t1]
+
+  [t1]: https://cbrgm.net/post/2022-12-05-go-table-driven-tests-testify/
