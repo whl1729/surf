@@ -67,6 +67,7 @@
 - [Tutorial: Getting started with fuzzing][pr6] fuzzing 工具可以为测试用例生成随机数据。
 - [100-go-mistakes][pr7]
 - [Maps and Memory Leaks in Go][pr8]
+- [dgryski/awesome-go-style][pr9]: A collection of Go style guides
 
   [pr1]: https://henvic.dev/posts/go/
   [pr2]: https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust
@@ -76,6 +77,7 @@
   [pr6]: https://go.dev/doc/tutorial/fuzz
   [pr7]: https://github.com/teivah/100-go-mistakes
   [pr8]: https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69
+  [pr9]: https://github.com/dgryski/awesome-go-style
 
 ## Go Resource
 
