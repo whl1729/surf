@@ -1,5 +1,9 @@
 # 每日网站
 
+## 英语
+
+- [China Daily](https://www.chinadaily.com.cn/)
+
 ## 编程语言
 
 ### Rust
