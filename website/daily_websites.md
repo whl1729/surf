@@ -88,7 +88,7 @@
 
 ## 政府部门
 
-- [国家统计局-统计数据](http://www.stats.gov.cn/tjsj/)
+- [国家统计局-统计数据](http://www.stats.gov.cn/sj/)
 - [中国政府网](http://www.gov.cn/index.htm)
 - [中华人民共和国标准化管理委员会](http://www.sac.gov.cn/)
 - [中华人民共和国发展和改革委员会](https://www.ndrc.gov.cn/)
