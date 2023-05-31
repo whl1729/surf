@@ -2,6 +2,8 @@
 
 ## Go language design
 
+- [Go Proverbs][d15]
+
 - [Notes on structured concurrency, or: Go statement considered harmful][d1] (to_read)
   - The popular concurrency primitives – go statements, thread spawning functions, callbacks, futures, promises, ...
     they're all variants on goto.
@@ -36,6 +38,7 @@
 
 - [Go at Google: Language Design in the Service of Software Engineering][d14] Go 发明者谈 Go 的设计
 
+  [d15]: https://go-proverbs.github.io/
   [d1]: https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
   [d2]: https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d
   [d3]: https://romanyx90.medium.com/go-errors-with-additional-details-66873577f3a9
