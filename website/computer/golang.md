@@ -1,10 +1,14 @@
 # 网络资源之golang
 
-## 动态
+## Blog
+
+- [Go Blog](https://blog.golang.org/index)
+
+## News
 
 - [Golang News](https://golangnews.com/)
 - [Golang Weekly](https://golangweekly.com/issues)
 
-## 博客
+## Resource
 
-- [Go Blog](https://blog.golang.org/index)
+- [Awesome Go](https://github.com/avelino/awesome-go)
