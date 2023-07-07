@@ -1,0 +1,17 @@
+# 网络资源
+
+- [每日网站](daily_websites.md)
+- [资源下载网站](resource.md)
+- [极客时间网站](geektime_lectures.md)
+- [计算机](computer/README.md)
+- [教育学](education/README.md)
+- [电子](electronics/README.md)
+- [语言](language/README.md)
+- [数学](math/README.md)
+- [新闻](news/README.md)
+- [哲学](philosophy/README.md)
+- [物理](physics/README.md)
+- [政治](politics/README.md)
+- [科学](science/README.md)
+- [技能](skill/README.md)
+- [工具](tool/README.md)
