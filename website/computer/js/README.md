@@ -65,12 +65,14 @@
 - [Awesome JavaScript][re3]
 - [javascript-questions][re4]
 - [33-js-concepts][re5]
+- [Nodejs Guide][re6]
 
   [re1]: https://exploringjs.com/impatient-js/toc.html
   [re2]: http://javascriptissexy.com/how-to-learn-javascript-properly/
   [re3]: https://github.com/sorrycc/awesome-javascript
   [re4]: https://github.com/lydiahallie/javascript-questions
   [re5]: https://github.com/leonardomso/33-js-concepts
+  [re6]: https://nodejs.org/en/docs/guides
 
 ## Runtime
 

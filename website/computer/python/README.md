@@ -67,6 +67,8 @@
 - [What the f\*ck Python!][t7]
 - [Python internals][t8]
 - [Python Developer’s Guide][t9]
+- [The Python Language Reference][t10]
+- [The Python Tutorial][t11]
 
   [t1]: https://docs.python.org/3/
   [t2]: https://python.swaroopch.com/
@@ -77,6 +79,8 @@
   [t7]: https://github.com/satwikkansal/wtfpython
   [t8]: https://eli.thegreenplace.net/tag/python-internals
   [t9]: https://devguide.python.org/
+  [t10]: https://docs.python.org/3/reference/index.html
+  [t11]: https://docs.python.org/3/tutorial/index.html
 
 ## Tools
 

@@ -97,10 +97,14 @@
 - [Go 101][r1]: an up-to-date knowledge base for Go programming self learning
 - [Airs – Ian Lance Taylor][r2]: A gopher's blog
 - [Awesome Go][r3]
+- [Go Wiki][r4]
+- [Go Documentation][r5]
 
   [r1]: https://go101.org/
   [r2]: https://www.airs.com/blog/
   [r3]: https://github.com/avelino/awesome-go
+  [r4]: https://github.com/golang/go/wiki/
+  [r5]: https://go.dev/doc/
 
 ## Test
 
