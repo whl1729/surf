@@ -53,8 +53,12 @@
 ## Resources
 
 - [Awesome Python][r1]
+- [All Things Pythonic: A Weblog by Guido van van Rossum][r2] Guido 的旧博客
+- [Neopythonic][r3] Guido 的新博客
 
   [r1]: https://github.com/vinta/awesome-python
+  [r2]: https://www.artima.com/weblogs/index.jsp?blogger=guido
+  [r3]: http://neopythonic.blogspot.com/
 
 ## Tutorial
 
