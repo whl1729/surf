@@ -2,10 +2,12 @@
 
 ## 2023-07
 
+- 2023-07-31: [Why operators are useful][073101]
 - 2023-07-28: [Reasoning about asyncio.Semaphore][072801]
 - 2023-07-25: [Python 3000 and You][072501]
 - 2023-07-25: [Why I Invented Python][072502]
 
+  [073101]: ./computer/python/why_operators_are_useful.md
   [072801]: ./computer/python/reasoning_about_asyncio_semaphore.md
   [072501]: ./computer/python/python_3000_and_you.md
   [072502]: ./computer/python/why_i_invented_python.md
