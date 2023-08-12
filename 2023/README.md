@@ -2,10 +2,12 @@
 
 ## 2023-08
 
+- 2023-08-12: [The Legacy of Bram Moolenaar][081202]
 - 2023-08-12: [Vim Boss][081201]
 - 2023-08-09: [What to do with your computer science career][080901]
 - 2023-08-09: [King's Day Speech][080902]
 
+  [081202]: ./computer/python/the_legacy_of_bram_moolenaar.md
   [081201]: ./computer/python/vim_boss.md
   [080901]: ./computer/python/what_to_do_with_your_computer_science_career.md
   [080902]: ./computer/python/kings_day_speech.md

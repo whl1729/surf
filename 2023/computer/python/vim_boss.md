@@ -1,6 +1,6 @@
 # 点评 [Vim Boss][1]
 
-Bram Moolenaar 8月3日去世，neovim 团体为悼念他而撰写此文。
+Bram Moolenaar 8月3日去世，享年62岁，neovim 团体为悼念他而撰写此文。
 
 - Bram 从不哗众取宠，也不凭个人喜恶行事。
 
