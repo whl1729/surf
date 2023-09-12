@@ -1,5 +1,11 @@
 # 2023年网上冲浪记录
 
+## 2023-09
+
+- 2023-09-12: [The roots of an obscure Bourne shell error message][091201]
+
+  [091201]: ./computer/shell/the_roots_of_an_obscure_bourne_shell_error_message.md
+
 ## 2023-08
 
 - 2023-08-28: [How To Do Great Work][082801]
