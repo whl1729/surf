@@ -1,5 +1,11 @@
 # 2023年网上冲浪记录
 
+## 2023-10
+
+- 2023-10-19: [Write more "useless" software][101901]
+
+  [101901]: ./computer/attitude/write_more_useless_software.md
+
 ## 2023-09
 
 - 2023-09-12: [The roots of an obscure Bourne shell error message][091201]
