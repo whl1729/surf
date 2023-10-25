@@ -2,6 +2,7 @@
 
 ## 2023-10
 
+- 2023-10-25: [沉潜十年：最诚恳的希望][102501]
 - 2023-10-19: [Write more "useless" software][101901]
 
   [101901]: ./computer/attitude/write_more_useless_software.md
