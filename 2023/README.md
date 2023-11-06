@@ -1,5 +1,11 @@
 # 2023年网上冲浪记录
 
+## 2023-11
+
+- 2023-11-06: [Syntactic sugar to encourage use of named arguments][110601]
+
+  [110601]: ./computer/python/syntactic_sugar_to_encourage_use_of_named_arguments.md
+
 ## 2023-10
 
 - 2023-10-25: [沉潜十年：最诚恳的希望][102501]
