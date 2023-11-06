@@ -50,6 +50,7 @@
 
 ## 操作系统
 
+- [Linux Weekly News](https://lwn.net/)
 - [Linux | What's New](https://www.linux.org/whats-new/)
 - [Linux Today](https://www.linuxtoday.com/)
 - [Linux Journal](https://www.linuxjournal.com/)
