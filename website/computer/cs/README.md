@@ -24,7 +24,8 @@
 - [四火的唠叨][b20]
 - [我爱计算机][b21]
 - [Toolshed Technologies][b22] （The Pragmatic Programmer 的作者）
-- [Ben's Blog][b23]
+- [Ben Kuhn's Blog][b23]
+- [Jake Worth's Blog][b24]
 
   [b1]: https://research.swtch.com/
   [b2]: https://www.joelonsoftware.com/
@@ -49,6 +50,7 @@
   [b21]: https://www.52cs.com/
   [b22]: https://toolshed.com/index.html
   [b23]: https://www.benkuhn.net/
+  [b24]: https://jakeworth.com/blog/
 
 ## Foundations
 
