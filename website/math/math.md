@@ -12,6 +12,12 @@
 
   [ex1]: https://projecteuler.net/
 
+## Number theory
+
+- [A truly incredible fact about the number 37][n1]
+
+  [n1]: https://grossack.site/2023/11/08/37-median.html
+
 ## Math Resources
 
 - [A Layman’s Guide to Recreational Mathematics Videos][r1]: Recommend some math videos. (to_read)

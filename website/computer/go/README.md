@@ -81,6 +81,7 @@
 - [100-go-mistakes][pr7]
 - [Maps and Memory Leaks in Go][pr8]
 - [dgryski/awesome-go-style][pr9]: A collection of Go style guides
+- [A very stupid bug][pr10]
 
   [pr1]: https://henvic.dev/posts/go/
   [pr2]: https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust
@@ -91,6 +92,7 @@
   [pr7]: https://github.com/teivah/100-go-mistakes
   [pr8]: https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69
   [pr9]: https://github.com/dgryski/awesome-go-style
+  [pr10]: https://xeiaso.net/blog/stupid-bug/
 
 ## Resource
 

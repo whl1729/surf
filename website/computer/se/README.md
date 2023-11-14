@@ -17,3 +17,9 @@
 - [《构建之法》 参考书和链接汇总][bo1]
 
   [bo1]: https://www.cnblogs.com/xinz/p/4470424.html
+
+## Software Engineering Practices
+
+- [Habits vs. Practices][p1]
+
+  [p1]: https://toolshed.com/articles/2022-01-05-habits_and_practices.html
