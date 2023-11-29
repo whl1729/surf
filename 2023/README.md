@@ -2,8 +2,10 @@
 
 ## 2023-11
 
+- 2023-11-29: [How to build a self driving car in one month][112901]
 - 2023-11-06: [Syntactic sugar to encourage use of named arguments][110601]
 
+  [112901]: ./automation/how_to_build_a_self_driving_car_in_one_month.md
   [110601]: ./computer/python/syntactic_sugar_to_encourage_use_of_named_arguments.md
 
 ## 2023-10
