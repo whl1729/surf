@@ -1,5 +1,18 @@
 # 2023年网上冲浪记录
 
+## 2023-11-30
+
+- [Fourteen Years of Go][113001]：Go 1.21 增加的内容
+  - PGO (Profile-guided optimization)
+  - cmp, maps, slices packages
+  - log/slog
+
+- [Fixing For Loops in Go 1.22][113002]
+  - A mistake: keeping a reference to a loop variable past the end of its iteration, at which point it takes on a new value that you didn’t want.
+
+  [113001]: https://go.dev/blog/14years
+  [113002]: https://go.dev/blog/loopvar-preview
+
 ## 2023-11-29
 
 - 2023年11月28日，查理·芒格去世。
