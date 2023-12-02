@@ -1,5 +1,18 @@
 # 2023年网上冲浪记录
 
+## 2023-12-02
+
+- [Not Everything Is Google’s Fault (Just Many Things)][120201]: 批评谷歌云的一些坑
+  - 网络不稳定
+  - 自动清空 Artifact Registry
+  - 人工支持不给力
+  - 用户空间到内核的内存通信存在致命的 bug
+
+- [世界最大的国际热核聚变实验反应堆（ITER计划，又称人造太阳）][120202]
+
+  [120201]: https://blog.railway.app/p/gcp-incidents
+  [120202]: http://finance.people.com.cn/n1/2023/1202/c1004-40130319.html
+
 ## 2023-11-30
 
 - [Fourteen Years of Go][113001]：Go 1.21 增加的内容
