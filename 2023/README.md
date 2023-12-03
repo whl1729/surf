@@ -4,7 +4,12 @@
 
 - [朱雀二号遥三火箭已转运至发射区][120301]：该火箭由民商火箭蓝箭航天研发。
 
+- [Code is run more than read][120302]
+  - 提出一个模型，来概括软件开发时对各种优先级的权衡，比如：`biz > user > ops > dev`
+  - 对我的启示：软件开发不仅要考虑开发规范性和可维护性，还需要考虑商业价值和用户需求。
+
   [120301]: https://www.chinanews.com.cn/shipin/cns-d/2023/12-03/news976846.shtml
+  [120302]: https://olano.dev/2023-11-30-code-is-run-more-than-read/
 
 ## 2023-12-02
 
