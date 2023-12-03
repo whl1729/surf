@@ -1,5 +1,11 @@
 # 2023年网上冲浪记录
 
+## 2023-12-03
+
+- [朱雀二号遥三火箭已转运至发射区][120301]：该火箭由民商火箭蓝箭航天研发。
+
+  [120301]: https://www.chinanews.com.cn/shipin/cns-d/2023/12-03/news976846.shtml
+
 ## 2023-12-02
 
 - [Not Everything Is Google’s Fault (Just Many Things)][120201]: 批评谷歌云的一些坑
