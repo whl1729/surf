@@ -1,8 +1,47 @@
 # 每日网站
 
-## 英语
+## 技术动态
 
+- [Github Trending](https://github.com/trending)
+- [Hacker News](https://news.ycombinator.com/news)
+- [科技爱好者周刊](https://github.com/ruanyf/weekly)
+- [前端精读](https://github.com/ascoders/weekly)
+- [阿里云藏经阁](https://developer.aliyun.com/ebook)
+- [腾讯云社区专栏](https://cloud.tencent.com/developer/column)
+- [美团技术团队](https://tech.meituan.com/)
+- [微软亚洲研究院-新闻中心](https://www.msra.cn/zh-cn/news)
+- [Microsoft Developers Blog](https://devblogs.microsoft.com/)
+- [Google Technology Blog](https://blog.google/technology)
+- [Facebook Engineering](https://engineering.fb.com/)
+- [Twitter Engineering Blog](https://blog.twitter.com/engineering/en_us.html)
+- [IBM Developer](https://developer.ibm.com/)
+- [V2EX](https://www.v2ex.com/)
+
+## 人工智能
+
+- [机器之心](https://www.jiqizhixin.com/)
+- [量子位](https://www.qbitai.com/)
+- [新智元](https://www.zhihu.com/org/xin-zhi-yuan-88-3/posts)
+- [OpenAI Blog](https://www.openai.com/blog/)
+- [AI Weekly](http://aiweekly.co/)
+- [DeepMind](https://deepmind.com/blog)
+- [Google AI Blog](https://ai.googleblog.com/)
+- [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
+- [Facebook AI Blog](https://ai.facebook.com/blog/)
+- [Baidu Research Blog](http://research.baidu.com/Blog)
+- [NVIDIA Blog](https://blogs.nvidia.com/blog/category/deep-learning/)
+- [Synced](https://syncedreview.com/)
+
+## 新闻
+
+- [人民网](http://www.people.com.cn/)
+- [新华网](http://www.xinhuanet.com/)
+- [中国新闻网](https://www.chinanews.com.cn/)
+- [中国日报网](https://cn.chinadaily.com.cn/)
 - [China Daily](https://www.chinadaily.com.cn/)
+- [澎湃新闻](https://www.thepaper.cn/)
+- [参考消息](http://m.cankaoxiaoxi.com/)
+- [CNN](https://us.cnn.com/)
 
 ## 编程语言
 
@@ -56,37 +95,6 @@
 - [Linux Journal](https://www.linuxjournal.com/)
 - [Ubuntu Blog](https://ubuntu.com/blog)
 - [Ubuntu Weekly Newsletter](https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/Archive)
-
-## 技术动态
-
-- [Github Trending](https://github.com/trending)
-- [Hacker News](https://news.ycombinator.com/news)
-- [阿里云藏经阁](https://developer.aliyun.com/ebook)
-- [腾讯云社区专栏](https://cloud.tencent.com/developer/column)
-- [腾讯全端AlloyTeam团队博客](http://www.alloyteam.com/page/0/)
-- [美团技术团队](https://tech.meituan.com/)
-- [微软亚洲研究院-新闻中心](https://www.msra.cn/zh-cn/news)
-- [Microsoft Developers Blog](https://devblogs.microsoft.com/)
-- [Google Technology Blog](https://blog.google/technology)
-- [Facebook Engineering](https://engineering.fb.com/)
-- [Twitter Engineering Blog](https://blog.twitter.com/engineering/en_us.html)
-- [IBM Developer](https://developer.ibm.com/)
-- [V2EX](https://www.v2ex.com/)
-
-## 人工智能
-
-- [机器之心](https://www.jiqizhixin.com/)
-- [PaperWeekly | 机器之心](https://www.jiqizhixin.com/columns/paperweekly)
-- [量子位](https://www.qbitai.com/)
-- [Synced](https://syncedreview.com/)
-- [OpenAI Blog](https://www.openai.com/blog/)
-- [AI Weekly](http://aiweekly.co/)
-- [DeepMind](https://deepmind.com/blog)
-- [Google AI Blog](https://ai.googleblog.com/)
-- [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
-- [Facebook AI Blog](https://ai.facebook.com/blog/)
-- [Baidu Research Blog](http://research.baidu.com/Blog)
-- [NVIDIA Blog](https://blogs.nvidia.com/blog/category/deep-learning/)
 
 ## 政府部门
 
@@ -157,11 +165,3 @@
 - [科创论坛](https://www.kechuang.org/)
 - [国家航天局](http://www.cnsa.gov.cn/index.html)
 - [中国载人航天](http://www.cmse.gov.cn/)
-
-## 新闻
-
-- [人民网](http://www.people.com.cn/)
-- [新华网](http://www.xinhuanet.com/)
-- [澎湃新闻](https://www.thepaper.cn/)
-- [参考消息](http://m.cankaoxiaoxi.com/)
-- [CNN](https://us.cnn.com/)
