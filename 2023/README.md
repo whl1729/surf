@@ -1,5 +1,14 @@
 # 2023年网上冲浪记录
 
+## 2023-12-07
+
+- [How Often Should We Sharpen Our Tools?][120701]
+  - 作者讲述自己的文本编辑器的切换过程：NEdit（使用15年以上） -> vim （几年）-> neovim
+  - neovim 相比 vim 的优势：异步操作（不会阻塞UI）、支持 Lua
+  - 在提升工具使用效率与处理实际工作任务之间取得平衡，「磨刀不误砍柴工」
+
+  [120701]: https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html
+
 ## 2023-12-03
 
 - [朱雀二号遥三火箭已转运至发射区][120301]：该火箭由民商火箭蓝箭航天研发。
