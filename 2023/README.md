@@ -7,7 +7,12 @@
   - neovim 相比 vim 的优势：异步操作（不会阻塞UI）、支持 Lua
   - 在提升工具使用效率与处理实际工作任务之间取得平衡，「磨刀不误砍柴工」
 
+- [Nuclear Reactor Simulator][120702]
+  - 一个核反应堆模拟器，可以用来熟悉核反应堆的原理。有空玩一下。
+  - 另外，这种科普类的软件作品，也是我比较感兴趣的项目。以后可以多了解这方面的软件作品。
+
   [120701]: https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html
+  [120702]: https://dalton-nrs.manchester.ac.uk/
 
 ## 2023-12-03
 
