@@ -1,5 +1,42 @@
 # 2023年网上冲浪记录
 
+## 2023-12-13
+
+- [深圳将人工智能教育融入中小学课堂][121301]
+  - 深圳外国语学校等61所学校已成为深圳市首批“中小学人工智能教育项目”实验工作学校。深圳园岭小学、南山外国语小学等学校均已开设人工智能相关课程。
+  - 2017年，国务院印发《新一代人工智能发展规划》，明确在中小学阶段设置人工智能相关课程，逐步推广编程教育。
+  - 2023年7月，深圳市发布《深圳市推进中小学人工智能教育工作方案》，提出要大力促进人工智能与教育教学深度融合，着力培育具有人工智能创新潜质的青少年群体。
+  - 目前深圳南山实验教育集团麒麟小学已引入人工智能教育实训平台。该平台采用国产自研编程工具，具备图像识别、人脸识别、声音识别等功能，内置卡通元素、IP角色等创作素材，方便教师教学与学生实训
+
+- [世界机器人大会][121302]
+  - 8月16日下午，备受瞩目的2023世界机器人大会在北京北人亦创国际会展中心盛大开幕。
+
+- [世界机器人大赛][121303]
+  - 大赛自2015年起已成功举办了8届，共吸引了全球20余个国家20余万名选手参赛，被广泛赞誉为机器人界的“奥林匹克”。
+  - 2023世界机器人大赛设共融机器人挑战赛、BCI脑控机器人大赛、机器人应用大赛、青少年机器人设计大赛共四大赛事
+
+- [新基建][121304]
+  - 5G 基站
+  - 特高压
+  - 城际高速铁路，城市轨道交通
+  - 新能源汽车充电桩
+  - 大数据中心
+  - 人工智能
+  - 工业互联网
+
+- [build-your-own-x][121305]
+  - Master programming by recreating your favorite technologies from scratch.
+
+- [Project Based Learning][121306]
+  - A list of programming tutorials in which aspiring software developers learn how to build an application from scratch.
+
+  [121301]: http://edu.people.com.cn/n1/2023/1213/c1006-40137719.html
+  [121302]: https://www.worldrobotconference.com/
+  [121303]: https://www.worldrobotconference.com/cn/view/1693.html
+  [121304]: https://github.com/ruanyf/weekly/blob/master/docs/issue-281.md
+  [121305]: https://github.com/codecrafters-io/build-your-own-x
+  [121306]: https://github.com/practical-tutorials/project-based-learning
+
 ## 2023-12-12
 
 - [国家统计局关于2023年粮食产量数据的公告][121201]
