@@ -5,6 +5,8 @@
 - [Github Trending](https://github.com/trending)
 - [Gitee 开源软件](https://gitee.com/explore)
 - [Hacker News](https://news.ycombinator.com/news)
+- [InfoQ](https://www.infoq.cn/)
+- [The New Stack](https://thenewstack.io/)
 - [科技爱好者周刊](https://github.com/ruanyf/weekly)
 - [前端精读](https://github.com/ascoders/weekly)
 - [阿里云藏经阁](https://developer.aliyun.com/ebook)
