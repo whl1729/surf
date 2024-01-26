@@ -1,51 +1,56 @@
 # 每日网站
 
-## 技术动态
-
-- [Github Trending](https://github.com/trending)
-- [Gitee 开源软件](https://gitee.com/explore)
-- [Hacker News](https://news.ycombinator.com/news)
-- [InfoQ](https://www.infoq.cn/)
-- [The New Stack](https://thenewstack.io/)
-- [科技爱好者周刊](https://github.com/ruanyf/weekly)
-- [前端精读](https://github.com/ascoders/weekly)
-- [阿里云藏经阁](https://developer.aliyun.com/ebook)
-- [腾讯云社区专栏](https://cloud.tencent.com/developer/column)
-- [美团技术团队](https://tech.meituan.com/)
-- [微软亚洲研究院-新闻中心](https://www.msra.cn/zh-cn/news)
-- [Microsoft Developers Blog](https://devblogs.microsoft.com/)
-- [Google Technology Blog](https://blog.google/technology)
-- [Facebook Engineering](https://engineering.fb.com/)
-- [Twitter Engineering Blog](https://blog.twitter.com/engineering/en_us.html)
-- [IBM Developer](https://developer.ibm.com/)
-- [V2EX](https://www.v2ex.com/)
-
-## 人工智能
-
-- [机器之心](https://www.jiqizhixin.com/)
-- [量子位](https://www.qbitai.com/)
-- [新智元](https://www.zhihu.com/org/xin-zhi-yuan-88-3/posts)
-- [OpenAI Blog](https://www.openai.com/blog/)
-- [AI Weekly](http://aiweekly.co/)
-- [DeepMind](https://deepmind.com/blog)
-- [Google AI Blog](https://ai.googleblog.com/)
-- [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
-- [Facebook AI Blog](https://ai.facebook.com/blog/)
-- [Baidu Research Blog](http://research.baidu.com/Blog)
-- [NVIDIA Blog](https://blogs.nvidia.com/blog/category/deep-learning/)
-- [Synced](https://syncedreview.com/)
-
 ## 新闻
 
 - [国务院新闻办公室](http://www.scio.gov.cn/)
+- [国家统计局-统计数据](http://www.stats.gov.cn/sj/)
+- [政府信息公开](http://www.gov.cn/zhengce/xxgk/index.htm)
 - [人民网](http://www.people.com.cn/)
 - [新华网](http://www.xinhuanet.com/)
+- [中国政府网](http://www.gov.cn/index.htm)
 - [中国新闻网](https://www.chinanews.com.cn/)
 - [中国日报网](https://cn.chinadaily.com.cn/)
 - [China Daily](https://www.chinadaily.com.cn/)
 - [澎湃新闻](https://www.thepaper.cn/)
 - [参考消息](http://m.cankaoxiaoxi.com/)
 - [CNN](https://us.cnn.com/)
+
+## 技术动态
+
+- [Github Trending](https://github.com/trending)
+- [Gitee 开源软件](https://gitee.com/explore)
+- [Hacker News](https://news.ycombinator.com/news)
+- [DEV Community](https://dev.to/)
+- [The New Stack](https://thenewstack.io/)
+- [devurls](https://devurls.com/)
+- [InfoQ](https://www.infoq.com/)
+- [reddit / programming](https://www.reddit.com/r/programming/)
+- [InfoQ 中文版](https://www.infoq.cn/)
+- [OSCHINA](https://www.oschina.net/)
+- [V2EX](https://www.v2ex.com/)
+- [稀土掘金](https://juejin.cn/)
+- [科技爱好者周刊](https://github.com/ruanyf/weekly)
+- [极客公园](https://www.geekpark.net/)
+- [微软亚洲研究院-新闻中心](https://www.msra.cn/zh-cn/news)
+
+## 人工智能
+
+- [AI Weekly](http://aiweekly.co/)
+- [Deep Learning Weekly](https://www.deeplearningweekly.com/)
+- [UNITE.AI](https://www.unite.ai/)
+- [机器之心](https://www.jiqizhixin.com/)
+- [量子位](https://www.qbitai.com/)
+- [新智元](https://www.zhihu.com/org/xin-zhi-yuan-88-3/posts)
+- [OpenAI Blog](https://www.openai.com/blog/)
+- [DeepMind](https://deepmind.com/blog)
+- [NVIDIA Blog](https://blogs.nvidia.com/blog/category/deep-learning/)
+
+## 自动驾驶
+
+- [Automotive News](https://www.autonews.com/topic/autonomous-vehicle)
+- [Medium / Self Driving Cars](https://medium.com/tag/self-driving-cars)
+- [HERE360 news](https://www.here.com/learn/blog)
+- [Automotive Dive](https://www.automotivedive.com/topic/autonomous/)
 
 ## 编程语言
 
@@ -55,7 +60,6 @@
 - [Inside Rust Blog](https://blog.rust-lang.org/inside-rust/index.html)
 - [This Week in Rust](https://this-week-in-rust.org/)
 - [Rust语言中文社区](https://rustcc.cn/)
-- [2021年Rust语言中文精选](https://www.yuque.com/chaosbot/rust_magazine_2021)
 
 ### C++
 
@@ -90,6 +94,11 @@
 - [Web Design Weekly](https://web-design-weekly.com/archive/)
 - [WebTools Weekly](https://webtoolsweekly.com/archive)
 - [W3C NEWS](https://www.w3.org/blog/news/)
+- [前端精读](https://github.com/ascoders/weekly)
+
+## 数据库
+
+- [DB Weekly](https://dbweekly.com/issues)
 
 ## 操作系统
 
@@ -100,11 +109,57 @@
 - [Ubuntu Blog](https://ubuntu.com/blog)
 - [Ubuntu Weekly Newsletter](https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/Archive)
 
+## 行业动态
+
+- [36氪](https://36kr.com/)
+- [腾讯科技](https://new.qq.com/ch/tech/)
+- [虎嗅](https://www.huxiu.com/)
+- [ChinaVenture](https://www.chinaventure.com.cn/)
+- [清科投资界](https://www.pedaily.cn/)
+- [199IT: 中文互联网数据资讯网](http://www.199it.com/)
+- [Harvard Business Review](https://hbr.org/)
+- [MIT Technology Review](https://www.technologyreview.com/)
+- [Forbes](https://www.forbes.com/)
+- [The Verge](https://www.theverge.com/)
+- [VentureBeat](https://venturebeat.com/)
+- [Futurism](https://futurism.com/)
+
+## 机器人
+
+- [Robohub](https://robohub.org/)
+- [The Robot Report](https://www.therobotreport.com/)
+- [Robotics](https://www.automate.org/robotics)
+- [IEEE Spectrum / Robotics](https://spectrum.ieee.org/topic/robotics/)
+
+## 技术博客
+
+- [美团技术团队](https://tech.meituan.com/)
+- [阿里云藏经阁](https://developer.aliyun.com/ebook)
+- [腾讯云社区专栏](https://cloud.tencent.com/developer/column)
+- [Microsoft Developers Blog](https://devblogs.microsoft.com/)
+- [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
+- [Google Technology Blog](https://blog.google/technology)
+- [Facebook Engineering](https://engineering.fb.com/)
+- [Twitter Engineering Blog](https://blog.twitter.com/engineering/en_us.html)
+- [IBM Developer](https://developer.ibm.com/)
+- [Synced](https://syncedreview.com/)
+
+## 自动驾驶博客
+
+- [Waymo Blog](https://blog.waymo.com/)
+- [Aurora Blog](https://aurora.tech/blog)
+- [Voyage News](https://news.voyage.auto/)
+- [Nuro Medium](https://medium.com/nuro)
+
+## 电子通信
+
+- [C114通信网](http://www.c114.com.cn/)
+- [通信人家园](https://www.txrjy.com/forum.php)
+- [电子发烧友](http://www.elecfans.com/)
+- [心声社区](http://xinsheng.huawei.com/cn/index/guest.html)
+
 ## 政府部门
 
-- [国家统计局-统计数据](http://www.stats.gov.cn/tjsj/)
-- [政府信息公开](http://www.gov.cn/zhengce/xxgk/index.htm)
-- [中国政府网](http://www.gov.cn/index.htm)
 - [中华人民共和国标准化管理委员会](http://www.sac.gov.cn/)
 - [中华人民共和国发展和改革委员会](https://www.ndrc.gov.cn/)
 - [中华人民共和国科学技术部](http://www.most.gov.cn/index.html)
@@ -118,46 +173,6 @@
 - [国家自然科学基金委员会](http://www.nsfc.gov.cn/)
 - [中华人民共和国国防部](http://www.mod.gov.cn/)
 - [中华人民共和国外交部](https://www.fmprc.gov.cn/web/)
-
-## 行业动态
-
-- [36氪](https://36kr.com/)
-- [腾讯科技](https://new.qq.com/ch/tech/)
-- [极客公园](https://www.geekpark.net/)
-- [虎嗅](https://www.huxiu.com/)
-- [ChinaVenture](https://www.chinaventure.com.cn/)
-- [清科投资界](https://www.pedaily.cn/)
-- [199IT: 中文互联网数据资讯网](http://www.199it.com/)
-- [Harvard Business Review](https://hbr.org/)
-- [MIT Technology Review](https://www.technologyreview.com/)
-- [Forbes](https://www.forbes.com/)
-- [TechCrunch](https://techcrunch.com/)
-- [The Verge](https://www.theverge.com/)
-- [VentureBeat](https://venturebeat.com/)
-- [IT BusinessEdge](https://www.itbusinessedge.com/)
-- [Futurism](https://futurism.com/)
-
-## 自动驾驶
-
-- [Waymo Blog](https://blog.waymo.com/)
-- [Cruise Medium](https://medium.com/cruise)
-- [Uber Engineering Blog](https://eng.uber.com/)
-- [Ford Motor Company's AV LLC Blog](https://medium.com/self-driven)
-- [AutoX - Medium](https://medium.com/autox)
-- [Aurora Blog](https://aurora.tech/blog)
-- [Voyage News](https://news.voyage.auto/)
-- [Nuro Medium](https://medium.com/nuro)
-- [新闻中心 - 小马智行](https://pony.ai/press?lang=zh)
-- [媒体动态 – TuSimple](https://www.tusimple.com/media-coverage-tusimple/)
-- [最新消息 - Weride](https://www.weride.ai/media)
-
-## 电子通信
-
-- [C114通信网](http://www.c114.com.cn/)
-- [通信人家园](https://www.txrjy.com/forum.php)
-- [电子发烧友](http://www.elecfans.com/)
-- [新闻 - 华为](https://www.huawei.com/cn/news)
-- [心声社区](http://xinsheng.huawei.com/cn/index/guest.html)
 
 ## 科技
 
