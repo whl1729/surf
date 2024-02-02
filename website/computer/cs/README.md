@@ -72,6 +72,12 @@
   [g1]: https://apnacodingadda.blogspot.com/2022/02/best-hackingprogramming-games.html
   [g2]: https://apnacodingadda.blogspot.com/2022/02/best-hackingprogramming-games-part-2.html
 
+## Joke
+
+- [程序员笑话集锦][j1]
+
+  [j1]: https://disksing.com/programmer-jokes/
+
 ## Resources
 
 - [What videos should everybody watch?][r1]
