@@ -141,11 +141,17 @@
   [rs2]: https://learnaifromscratch.github.io/
   [rs3]: https://www.qbitai.com/2022/08/36685.html
 
+## 科普（Science）
+
+- [Why Gödel, Escher, Bach is the most influential book in my life.][s1]
+
+  [s1]: https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428
+
 ## Speech Recognization and Generation
 
-- [TTS: Text-to-Speech for all.][s1]: A library for advanced Text-to-Speech generation.
+- [TTS: Text-to-Speech for all.][srg1]: A library for advanced Text-to-Speech generation.
 
-  [s1]: https://github.com/mozilla/TTS
+  [srg1]: https://github.com/mozilla/TTS
 
 ## 教程 (Tutorial)
 
