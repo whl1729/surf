@@ -69,7 +69,13 @@
   [i2]: https://www.jiqizhixin.com/articles/2018-10-31-34
   [i3]: https://aiindex.stanford.edu/wp-content/uploads/2021/04/2021-AI-Index-Report_Chinese-Edition.pdf
 
-## 新闻 (News)
+## Large Language Model
+
+- [kimi][l1]
+
+  [l1]: https://kimi.moonshot.cn/
+
+## News
 
 - [机器之心][n1]
 - [PaperWeekly | 机器之心][n2]
