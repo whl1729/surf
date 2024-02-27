@@ -26,6 +26,7 @@
 - [Toolshed Technologies][b22] （The Pragmatic Programmer 的作者）
 - [Ben Kuhn's Blog][b23]
 - [Jake Worth's Blog][b24]
+- [Simon Tatham's quasi-blog][b25]
 
   [b1]: https://research.swtch.com/
   [b2]: https://www.joelonsoftware.com/
@@ -51,6 +52,7 @@
   [b22]: https://toolshed.com/index.html
   [b23]: https://www.benkuhn.net/
   [b24]: https://jakeworth.com/blog/
+  [b25]: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/
 
 ## Foundations
 
