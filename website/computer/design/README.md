@@ -11,10 +11,17 @@
 - [Design Patterns VS Design Principles: Iterator, Mediator and Memento][pa1] (to_read)
 - [Design Patterns VS Design Principles: Observer, State and Strategy][pa2] (to_read)
 - [史上最全设计模式导学目录（完整版）][pa3]
+- Simon Tatham's Coroutines trilogy （讨论得挺深入的，但是我暂时看不太懂）
+  - [Coroutines in C][pa4]
+  - [Writing custom C++20 coroutine systems][pa5]
+  - [Philosophy of coroutines][pa6]
 
   [pa1]: https://www.fluentcpp.com/2021/09/12/design-patterns-vs-design-principles-iterator-mediator-and-memento/
   [pa2]: https://www.fluentcpp.com/2021/10/19/design-patterns-vs-design-principles-observer-state-and-strategy/
   [pa3]: https://blog.csdn.net/LoveLion/article/details/17517213
+  [pa4]: https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html
+  [pa5]: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-c++20/
+  [pa6]: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/
 
 ## Design Principles
 
