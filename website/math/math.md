@@ -18,6 +18,12 @@
 
   [n1]: https://grossack.site/2023/11/08/37-median.html
 
+## Probability theory
+
+- [History of Uniform Random Number Generation][p1]
+
+  [p1]: https://www.informs-sim.org/wsc17papers/includes/files/016.pdf
+
 ## Math Resources
 
 - [A Layman’s Guide to Recreational Mathematics Videos][r1]: Recommend some math videos. (to_read)
