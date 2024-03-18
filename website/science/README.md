@@ -34,6 +34,14 @@
   [n5]: http://www.bulletin.cas.cn/zhuanti2019/ch/index.aspx
   [n6]: http://kxrsbn.casad.cas.cn/
 
+## Projects
+
+- [BOINC: Compute for Science][p1]
+  - BOINC is a platform for 'volunteer computing': using lots of consumer devices (desktops, laptops, tables, phones) to do scientific computing.
+  - The goal of BOINC is to provide large computing power at small cost.
+
+  [p1]: https://boinc.berkeley.edu/index.php
+
 ## Science
 
 - [Nobel Prize][s1]
