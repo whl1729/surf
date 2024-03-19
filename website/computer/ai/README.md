@@ -72,8 +72,10 @@
 ## Large Language Model
 
 - [kimi][l1]
+- [Prompt engineering][l2]
 
   [l1]: https://kimi.moonshot.cn/
+  [l2]: https://platform.openai.com/docs/guides/prompt-engineering
 
 ## News
 
