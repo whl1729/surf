@@ -24,6 +24,12 @@
 
   [p1]: https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/
 
+## Physicist
+
+- [TURNING POINTS - A meeting with Enrico Fermi][ph1]
+
+  [ph1]: https://lilith.fisica.ufmg.br/~dsoares/fdyson.htm
+
 ## Quantum Computing
 
 - [Understanding quantum computing through drunken walks][qc1] (to_read)
@@ -39,4 +45,3 @@
   [qc4]: https://www.qtumist.com/
   [qc5]: https://quantum.ustc.edu.cn/web/
   [qc6]: http://mozi.ustc.edu.cn/
-
