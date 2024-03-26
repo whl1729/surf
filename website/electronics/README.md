@@ -1,5 +1,11 @@
 # 网络资源之电子通信
 
+## AI Chips
+
+- [Google's First Tensor Processing Unit : Architecture][ai1]
+
+  [ai1]: https://thechipletter.substack.com/p/googles-first-tpu-architecture
+
 ## Forum
 
 - [C114通信网][f1]
