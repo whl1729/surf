@@ -6,6 +6,15 @@
 
   [a1]: https://www.martinfowler.com/articles/newMethodology.html
 
+## Documentation
+
+- [Two open source projects with great documentation][d1]
+  - esbuild and Redis are two examples of codebases with exceptional documentation.
+  - Through their READMEs, changelogs, architecture documents, and code comments, both projects explain their design in such a way
+  - that someone new to the codebase can understand where things are, how things are done, and why they are done that way.
+
+  [d1]: https://johnjago.com/great-docs/
+
 ## Software Engineering Basics
 
 - [Terms used in software development][ba1]
