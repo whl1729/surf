@@ -73,7 +73,9 @@
 
 - [kimi][l1]
 - [Prompt engineering][l2]
+- [Is GPT-4 a Good Data Analyst?][l3]
 
+  [l3]: https://arxiv.org/abs/2305.15038
   [l1]: https://kimi.moonshot.cn/
   [l2]: https://platform.openai.com/docs/guides/prompt-engineering
 
