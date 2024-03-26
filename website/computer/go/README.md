@@ -82,7 +82,9 @@
 - [Maps and Memory Leaks in Go][pr8]
 - [dgryski/awesome-go-style][pr9]: A collection of Go style guides
 - [A very stupid bug][pr10]
+- [The Case Of A Leaky Goroutine][pr11]
 
+  [pr11]: https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/
   [pr1]: https://henvic.dev/posts/go/
   [pr2]: https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust
   [pr3]: https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
