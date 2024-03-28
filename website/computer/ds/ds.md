@@ -1,6 +1,12 @@
 # 冲浪笔记：数据结构
 
-## 树
+## Set
+
+- [Binary array set][s1]
+
+  [s1]: https://www.nayuki.io/page/binary-array-set
+
+## Tree
 
 - [Evolution of tree data structures for indexing: more exciting than it sounds][t1]: 介绍B树的历史与演化
 
