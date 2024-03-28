@@ -103,7 +103,9 @@
 - [Awesome Go][r3]
 - [Go Wiki][r4]
 - [Go Documentation][r5]
+- [Learning Go in 2024; From Beginner to Senior][r6]
 
+  [r6]: https://www.bytesizego.com/blog/learning-golang-2024
   [r1]: https://go101.org/
   [r2]: https://www.airs.com/blog/
   [r3]: https://github.com/avelino/awesome-go
