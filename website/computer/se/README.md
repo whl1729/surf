@@ -6,6 +6,18 @@
 
   [a1]: https://www.martinfowler.com/articles/newMethodology.html
 
+## Basics
+
+- [Terms used in software development][ba1]
+
+  [ba1]: https://martinfowler.com/bliki/
+
+## Books
+
+- [《构建之法》 参考书和链接汇总][bo1]
+
+  [bo1]: https://www.cnblogs.com/xinz/p/4470424.html
+
 ## Documentation
 
 - [Two open source projects with great documentation][d1]
@@ -15,19 +27,13 @@
 
   [d1]: https://johnjago.com/great-docs/
 
-## Software Engineering Basics
+## Git
 
-- [Terms used in software development][ba1]
+- [Git as debugging tool][g1]
 
-  [ba1]: https://martinfowler.com/bliki/
+  [g1]: https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/
 
-## Software Engineering Books
-
-- [《构建之法》 参考书和链接汇总][bo1]
-
-  [bo1]: https://www.cnblogs.com/xinz/p/4470424.html
-
-## Software Engineering Practices
+## Practices
 
 - [Habits vs. Practices][p1]
 - [Sudo-rs dependencies: when less is better][p2]
