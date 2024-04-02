@@ -40,3 +40,9 @@
 
   [p2]: https://tweedegolf.nl/en/blog/119/sudo-rs-depencencies-when-less-is-better
   [p1]: https://toolshed.com/articles/2022-01-05-habits_and_practices.html
+
+## Vim
+
+- [The Physics of VIM][v1]
+
+  [v1]: http://www.robertames.com/blog.cgi/entries/physics-of-vim.html
