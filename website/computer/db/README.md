@@ -7,3 +7,9 @@
   - MongoDB lacks the support for transactions, clean-up, inconsistent versioning across managed offerings by cloud providers, not to mention issues associated with schema-less database design structure.
 
   [p1]: https://infisical.com/blog/postgresql-migration-technical
+
+## Redis
+
+- [The race to replace Redis][r1]
+
+  [r1]: https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/
