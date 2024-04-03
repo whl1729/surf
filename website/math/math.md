@@ -1,12 +1,18 @@
 # 冲浪笔记：数学
 
-## Math Education
+## Book
+
+- [A Gentle Introduction to the Art of Mathematics][b1]
+
+  [b1]: https://giam.southernct.edu/GIAM/
+
+## Education
 
 - [是谁夺走了美国人的数学能力？ –美国百年数学战争演义][edu1] (to_read)
 
   [edu1]: https://ivyleaguecenter.org/2019/12/01/%E6%98%AF%E8%B0%81%E5%A4%BA%E8%B5%B0%E4%BA%86%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B%EF%BC%9F-%E7%BE%8E%E5%9B%BD%E7%99%BE%E5%B9%B4%E6%95%B0%E5%AD%A6%E6%88%98/
 
-## Math Exercises
+## Exercises
 
 - [Project Euler][ex1]
 
@@ -24,7 +30,7 @@
 
   [p1]: https://www.informs-sim.org/wsc17papers/includes/files/016.pdf
 
-## Math Resources
+## Resources
 
 - [A Layman’s Guide to Recreational Mathematics Videos][r1]: Recommend some math videos. (to_read)
 - [Mathoverflow: A single paper everyone should read?][r2]
