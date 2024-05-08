@@ -58,8 +58,10 @@
 
 ## Libraries
 
+- [Secure Randomness in Go 1.22][l2]
 - [The Go libraries that never failed us: 22 libraries you need to know][l1]
 
+  [l2]: https://go.dev/blog/chacha8rand?hn=1
   [l1]: https://threedots.tech/post/list-of-recommended-libraries/
 
 ## News
