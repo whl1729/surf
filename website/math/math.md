@@ -20,8 +20,10 @@
 
 ## Number theory
 
+- [A Rosetta Stone for Mathematics][n2]
 - [A truly incredible fact about the number 37][n1]
 
+  [n2]: https://www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/
   [n1]: https://grossack.site/2023/11/08/37-median.html
 
 ## Probability theory
