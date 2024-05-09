@@ -37,7 +37,9 @@
 
 - [Habits vs. Practices][p1]
 - [Sudo-rs dependencies: when less is better][p2]
+- [Design Docs at Google][p3]
 
+  [p3]: https://www.industrialempathy.com/posts/design-docs-at-google/
   [p2]: https://tweedegolf.nl/en/blog/119/sudo-rs-depencencies-when-less-is-better
   [p1]: https://toolshed.com/articles/2022-01-05-habits_and_practices.html
 
