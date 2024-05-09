@@ -8,6 +8,9 @@
 
 ## Design
 
+- [What We Got Right, What We Got Wrong][d20]
+  - 2023-11-10 Rob Pike 总结 Go 语言做得好和做得不够好的地方
+
 - [Less is exponentially more][d19]
   - Rob Pike 讨论 Go 语言哲学
 
@@ -40,6 +43,7 @@
 - [Go at Google: Language Design in the Service of Software Engineering][d17] Go 发明者谈 Go 的设计
 - [Go Proverbs][d18]
 
+  [d20]: https://commandcenter.blogspot.com/2024/01/
   [d19]: https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html
   [d1]: https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
   [d2]: https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d
