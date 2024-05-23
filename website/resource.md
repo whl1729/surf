@@ -2,8 +2,13 @@
 
 ## 电子书
 
-- [zlibrary](https://zh.sa1lib.org/)
-- [藏经阁-阿里云开发者社区](https://developer.aliyun.com/ebook)
+- [it-ebooks-0 / geektime-books][b3]
+- [zlibrary][b2]
+- [藏经阁-阿里云开发者社区][b1]
+
+  [b3]: https://github.com/it-ebooks-0/geektime-books
+  [b2]: https://zh.sa1lib.org/
+  [b1]: https://developer.aliyun.com/ebook
 
 ## 纪录片
 
