@@ -15,6 +15,27 @@
 - [参考消息](http://m.cankaoxiaoxi.com/)
 - [CNN](https://us.cnn.com/)
 
+## 产业研究报告
+
+- [烽火研报](https://www.fhyanbao.com/)
+- [发现报告](https://www.fxbaogao.com/)
+- [艾瑞网](https://www.iresearch.cn/)
+- [镝数据](https://www.dydata.io/)
+- [中国报告大厅](https://www.chinabgao.com/stat/)
+- [199IT: 中文互联网数据资讯网](http://www.199it.com/)
+- [中研网](https://www.chinairn.com/data/)
+- [36氪](https://36kr.com/)
+- [腾讯科技](https://new.qq.com/ch/tech/)
+- [虎嗅](https://www.huxiu.com/)
+- [投中网](https://www.chinaventure.com.cn/)
+- [清科投资界](https://www.pedaily.cn/)
+- [Harvard Business Review](https://hbr.org/)
+- [MIT Technology Review](https://www.technologyreview.com/)
+- [Forbes](https://www.forbes.com/)
+- [The Verge](https://www.theverge.com/)
+- [VentureBeat](https://venturebeat.com/)
+- [Futurism](https://futurism.com/)
+
 ## 技术动态
 
 - [Github Trending](https://github.com/trending)
@@ -47,6 +68,7 @@
 
 ## 自动驾驶
 
+- [佐思汽研](https://db.shujubang.com/home/login/index/gid/20753)
 - [Automotive News](https://www.autonews.com/topic/autonomous-vehicle)
 - [Medium / Self Driving Cars](https://medium.com/tag/self-driving-cars)
 - [HERE360 news](https://www.here.com/learn/blog)
@@ -108,21 +130,6 @@
 - [Linux Journal](https://www.linuxjournal.com/)
 - [Ubuntu Blog](https://ubuntu.com/blog)
 - [Ubuntu Weekly Newsletter](https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/Archive)
-
-## 行业动态
-
-- [36氪](https://36kr.com/)
-- [腾讯科技](https://new.qq.com/ch/tech/)
-- [虎嗅](https://www.huxiu.com/)
-- [ChinaVenture](https://www.chinaventure.com.cn/)
-- [清科投资界](https://www.pedaily.cn/)
-- [199IT: 中文互联网数据资讯网](http://www.199it.com/)
-- [Harvard Business Review](https://hbr.org/)
-- [MIT Technology Review](https://www.technologyreview.com/)
-- [Forbes](https://www.forbes.com/)
-- [The Verge](https://www.theverge.com/)
-- [VentureBeat](https://venturebeat.com/)
-- [Futurism](https://futurism.com/)
 
 ## 机器人
 
