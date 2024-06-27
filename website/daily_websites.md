@@ -69,6 +69,9 @@
 ## 自动驾驶
 
 - [佐思汽研](https://db.shujubang.com/home/login/index/gid/20753)
+- [自动驾驶之心](https://blog.csdn.net/CV_Autobot)
+- [自动驾驶专栏](https://www.zhihu.com/people/2-92-61-2)
+- [芝能汽车](https://xueqiu.com/u/zhineng)
 - [Automotive News](https://www.autonews.com/topic/autonomous-vehicle)
 - [Medium / Self Driving Cars](https://medium.com/tag/self-driving-cars)
 - [HERE360 news](https://www.here.com/learn/blog)
