@@ -51,6 +51,7 @@
 - [V2EX](https://www.v2ex.com/)
 - [稀土掘金](https://juejin.cn/)
 - [科技爱好者周刊](https://github.com/ruanyf/weekly)
+- [值得一读技术博客](https://daily-blog.chlinlearn.top/blogs/1)
 - [极客公园](https://www.geekpark.net/)
 - [微软亚洲研究院-新闻中心](https://www.msra.cn/zh-cn/news)
 
