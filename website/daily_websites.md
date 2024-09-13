@@ -94,6 +94,7 @@
 - [InfoQ C++ News](https://www.infoq.com/CPlusPlus/news/)
 - [Sutter's Mill](https://herbsutter.com/)
 - [C++ Tips](https://abseil.io/tips/)
+- [Awesome C++ Weekly](https://cpp.libhunt.com/newsletter)
 
 ### Golang
 
